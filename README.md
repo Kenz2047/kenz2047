@@ -9,7 +9,7 @@ I am a 3rd-year Bachelor’s student in Communication Systems at [EPFL](https://
 - **Data-Driven Decision Making**: Passionate about using data analysis and machine learning to make smarter financial and engineering solutions.
 
 💻 **Skills**  
-- **Programming**: Python, MATLAB, C, C++, Scala, Java (proficient in writing algorithms, data analysis, and simulations).
+- **Programming**: Python, MATLAB, Pascal, C, C++, Scala, Java (proficient in writing algorithms, data analysis, and simulations).
 - **Data Analysis**: Experienced with tools like Pandas, NumPy, and Matplotlib for analyzing financial and communication system data.
 - **Signal Processing**: Understanding of spectral analysis, autocorrelation, and convolution.
 - **System Design**: Hands-on experience in designing and simulating communication networks and digital systems.
